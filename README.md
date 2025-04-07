@@ -5,7 +5,6 @@ Hey there! I’m Vedant Agarwal, a senior at UC Berkeley tackling **Applied Math
 ## Who Am I?
 - 🎓 **Student**: UC Berkeley, Class of 2025, Applied Math & Physics.
 - 🤔 **Interests**: Philosophy (what’s it all for?), investing (can I beat the market?), and quantum weirdness.
-- 💻 **Vibe**: Part coder, part thinker, all chill. I’m not here to win awards—just to explore and build.
 - 🌐 **Online**: Follow my tweets @V_Agarwal1 or dive into my blog for the full story.
 
 ## What’s Here?
