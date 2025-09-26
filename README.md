@@ -1,6 +1,6 @@
 # Vedant Agarwal's Digital Playground 👋
 
-Hey there! I’m Vedant Agarwal, a senior at UC Berkeley tackling **Applied Math** and **Physics** with a side of existential pondering. When I’m not debugging equations or daydreaming about the universe, I’m diving into philosophy, messing with investment ideas, or tweeting my overthoughts. This GitHub is my creative sandbox—where code meets curiosity. Check out my [personal blog](https://vedantagarwal.xyz/) for my latest rants on Berkeley life, chaos theory, and why I’m still broke despite my stock picks!
+Hey there! I’m Vedant Agarwal, a senior at UC Berkeley tackling **Applied Math** and **Physics** with a side of existential pondering. When I’m not debugging equations or daydreaming about the universe, I’m diving into philosophy, messing with investment ideas, or tweeting my overthoughts. This GitHub is my creative sandbox—where code meets curiosity. Check out my [personal blog](https://vedantagarwal.xyz/).
 
 ## Who Am I?
 - 🎓 **Student**: UC Berkeley, Class of 2025, Applied Math & Physics.
