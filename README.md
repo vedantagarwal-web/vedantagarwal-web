@@ -32,7 +32,7 @@ This repo is the beating heart of my projects, blending my nerdy passions with a
 ## Let’s Connect
 - [Blog](https://vedantagarwal.xyz/) – My digital diary of thoughts and projects.
 - [Twitter](https://twitter.com/V_Agarwal1)
-- Email: [vedantagarwal@berkeley.edu](mailto:vedantagarwal2008@berkeley.edu).
+- Email: [vedantagarwal2008@berkeley.edu](mailto:vedantagarwal2008@berkeley.edu).
 
 ---
 
